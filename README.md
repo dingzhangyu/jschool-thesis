@@ -13,11 +13,15 @@ The pandemic has interrupted the industry’s talent system as well. Many young 
 
 Coming into 2022, experts worry that the shipping industry might be enmeshed in overcapacity challenge, as many ships that should have retired extended their service after refurnishing, but a potential global economic stagflation means there aren’t enough goods for these ships to transport. It would be a nightmare for many shipping companies and crewmen if this scenario came true.
 
+This story focuses on the difficulties sailors are facing when trying to make shifts and get home, the measures that have been taken and why they were not working to ease the situation, and the future of this industry after the pandemic.
+
 ## Methods
 
-I’ve talked to sailors and according to their common experience, governments of different countries have come up with some measures to facilitate the shifts of seafarers to make the shipping process smoother, but things are not improving a lot. This story focuses on the difficulties sailors are facing when trying to make shifts and get home, the measures that have been taken and why they were not working to ease the situation, and the future of this industry after the pandemic.
+I sought to work on a thesis about supply chain disruptions during the pandemic. As I looked through social media, I found posts from Chinese sailors who were stuck at sea due to stringent government policies. To report out the piece, I contacted sailors and asked them about their living situations, working conditions and their difficulties getting home. 
 
-I used QGIS to draw ship routes map at the port of Long Beach before and during the pandemic to show the extent of congestion.
+According to their common experience, governments of different countries have come up with some measures to facilitate the shifts of seafarers to make the shipping process smoother, but they told me that things were not improving much. I spoke to other stakeholders in the shipping industry including manning agency owners, ship owners and small business owners that were impacted by shortages. I also spoke with labor economists and a maritime data and  advisory company in order to better understand the systemic issues in the malfunctioning global supply chain.
+
+Finally, I consulted raw data on ship locations using the Bloomberg Terminal as well as several sources of data on shipping volume, schedule reliability, seafarer deployment and salary. I used QGIS to draw a ship routes map at the port of Long Beach before and during the pandemic to show the extent of congestion. I also graphed relevant trends in the economic data to tell the story of how the pandemic affected these sailors.
 
 ## Data Sources
 - `long_beach_maps/` contains QGIS files and ship location data extracted from the Bloomberg Terminal.
