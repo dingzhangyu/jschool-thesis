@@ -32,5 +32,3 @@ Finally, I consulted raw data on ship locations using the Bloomberg Terminal as 
 - `december_salary.xlsx` - Lijun Tang, University of Plymouth
 - `filipino_sailor_deployment.xlsx` - Lijun Tang, University of Plymouth
 - `TEU_annual_data.xlsx` - Port of Los Angeles
-
-=
