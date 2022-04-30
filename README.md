@@ -1,9 +1,8 @@
-# jschool-thesis
-
-Dingzhang Yu
+## A Floating Prison
+### Despite Higher Wages, Seafarers Face Harsh Working Conditions Amid A Pandemic Shipping Boom
+by: Dingzhang Yu
 
 Columbia University Graduate School of Journalism
-
 
 The international supply chain has been severely disrupted during the COVID-19 pandemic. International shipping industry, which accounts for 90 percent of the world total shipment, has experienced great uncertainty. Goods that used to take two weeks to get from Asia to North America now require 45 days to reach the other side of the Pacific Ocean and can cost more than ten times the original price.
 
